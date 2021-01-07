@@ -11,5 +11,5 @@ Run Command:
 
 	python rhyme.py <input text file name>
   
- Or change file directory within rhyme.py 
+ Or change file directory within *rhyme.py* 
   
